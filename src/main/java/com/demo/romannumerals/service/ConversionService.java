@@ -44,7 +44,7 @@ public class ConversionService {
 
 	/*
 	 * Method to convert numerals to digit
-	 * @param s
+	 * @param input
 	 * @throws InvalidInputException
 	 */
 	
